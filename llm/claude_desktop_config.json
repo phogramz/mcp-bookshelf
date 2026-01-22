@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bookshelf": {
+      "command": "python",
+      "args": ["C:\\pythonProject\\mcp\\server.py"]
+    }
+  }
+}
